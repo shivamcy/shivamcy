@@ -16,10 +16,14 @@
  * 📫 You can reach me at **thakurelashivam@gmail.com**
 
 ## Languages and Tools:
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,html,css,js,py,cpp,git,react,express,nodejs,mongodb,mysql&theme=dark&perline=5" alt="language and tools"/></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,nextjs,cpp,py,git,github,mysql&theme=dark" />
+</p>
 
 ## Stats:
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=shivamcy&show_icons=true&theme=tokyonight" alt="git stats"></p> 
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=shivamcy&show_icons=true&theme=tokyonight" alt="git stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamcy&theme=tokyonight" />
+</p> 
 
 ## Competitive Programming
 
