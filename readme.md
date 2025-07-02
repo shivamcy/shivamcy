@@ -8,9 +8,8 @@
 
 <p align="left">I've been developing my software engineering abilities for the past  few years with the express purpose of bringing my artistic dreams to life through code.</p>
 
- * 🌴 Residing in Noida
- * 🌱 Learning C++, HTML , CSS , JavaScript.
- * 🌱 Creating MERN stack projects
+ * 🌴 Residing in Noida.
+ * 🌱 Creating MERN stack & Python projects.
  * 👯 Looking to freelance and collaborate on Open Source Projects. 
  * 💬 Ask me about what I've learned recently.
  * ⚡ Fun fact: I love house music especially while coding.
